@@ -1,7 +1,7 @@
+using CrazyGames;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using YG;
 
 public class ButtonRGBA : MonoBehaviour
 {
@@ -28,17 +28,23 @@ public class ButtonRGBA : MonoBehaviour
 
     public void SaveButton()
     {
-        PlayerPrefs.SetInt("SaveMoney", PlayerUI.Money);
         PlayerUI.Money *= 2;
+        PlayerPrefs.SetInt("SaveMoney", PlayerUI.Money);
+        
         PlayerPrefs.Save(); 
         Debug.Log("Money saved: " + PlayerUI.Money);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
     }
 
-    public void ShowReklam()
+ public void ReklamShowAll()
     {
-        YandexGame.RewVideoShow(0);
+        CrazyAds.Instance.beginAdBreakRewarded(SaveButton, Error);
+    }
+
+    private void Error()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void LooseButton()

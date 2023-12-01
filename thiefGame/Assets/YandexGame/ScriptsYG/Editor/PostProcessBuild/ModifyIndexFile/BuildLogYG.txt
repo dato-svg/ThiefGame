@@ -1,2 +1,0 @@
-Build path: C:/Users/PRO_TEAM_C#/Desktop/VorYa.0.0.5
-Build number: 19
