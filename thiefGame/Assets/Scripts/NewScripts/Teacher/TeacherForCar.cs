@@ -21,7 +21,7 @@ public class TeacherForCar : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
     }
 }

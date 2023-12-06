@@ -5,11 +5,11 @@ public class SceneController : MonoBehaviour
 {
     public void ClickShop()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 
     public void ClickPlay()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 }
