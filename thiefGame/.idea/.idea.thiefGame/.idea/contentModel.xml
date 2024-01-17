@@ -15,6 +15,7 @@
         </e>
         <e p="Animation" t="Include">
           <e p="AnimationTakeMoney" t="Include" />
+          <e p="ForLogo" t="Include" />
         </e>
         <e p="CrazyOptimizer" t="Include">
           <e p="Editor" t="Include">

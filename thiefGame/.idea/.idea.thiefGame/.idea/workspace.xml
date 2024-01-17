@@ -30,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SDKCrazyGamesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewScene.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SDKCrazyGamesController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ButtonRGBA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewScripts/OnCrazySdkControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewScene.cs" />
       </list>
     </option>
   </component>
