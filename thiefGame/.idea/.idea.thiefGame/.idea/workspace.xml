@@ -29,15 +29,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RewardContrroler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LogoScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30ADF901-98BC-4C4B-8391-0C6FB1877998/1d/68f04de9/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30ADF901-98BC-4C4B-8391-0C6FB1877998/c7/9e435af9/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/PRO_TEAM_C#/Desktop/Git-hub/VorGame/VorGame/thiefGame/Assets/Scripts/ButtonRGBA.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30ADF901-98BC-4C4B-8391-0C6FB1877998/d5/4d588395/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30ADF901-98BC-4C4B-8391-0C6FB1877998/23/42970847/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/SDKCrazyGamesController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonRGBA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewScripts/OnCrazySdkControl.cs" />
         <option value="$PROJECT_DIR$/Assets/LogoScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewScripts/Teacher/TeacherForCar.cs" />
+        <option value="$PROJECT_DIR$/Assets/YandexGame/ScriptsYG/InfoYG/Editor/InfoYGEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RewardContrroler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/controlplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonRGBA.cs" />
+        <option value="$PROJECT_DIR$/Assets/YandexGame/DebuggingMode/Scripts/DebuggingModeYG.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705482038264</updated>
       <workItem from="1705482043940" duration="2482000" />
+      <workItem from="1705495927213" duration="1538000" />
     </task>
     <servers />
   </component>
@@ -100,8 +112,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1705497012942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1705497012942" />
   </component>
 </project>

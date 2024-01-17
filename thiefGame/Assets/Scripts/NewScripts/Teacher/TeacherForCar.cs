@@ -23,5 +23,6 @@ public class TeacherForCar : MonoBehaviour
         {
             SceneManager.LoadScene(2);
         }
+        
     }
 }

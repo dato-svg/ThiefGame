@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using YG;
 
 public class controlplay : MonoBehaviour
 {
@@ -48,6 +49,11 @@ public class controlplay : MonoBehaviour
         if (playerUI != null)
         {
             playerUI.ShowcurrectMoney();
+        }
+
+        if (RewardContrroler.CanShowReward)
+        {
+            YandexGame.FullscreenShow();
         }
         
 

@@ -28,8 +28,9 @@ public class ButtonRGBA : MonoBehaviour
 
     public void SaveButton()
     {
+        
+        PlayerUI.Money += 500;
         PlayerPrefs.SetInt("SaveMoney", PlayerUI.Money);
-        PlayerUI.Money *= 2;
         PlayerPrefs.Save(); 
         Debug.Log("Money saved: " + PlayerUI.Money);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -38,12 +39,13 @@ public class ButtonRGBA : MonoBehaviour
 
     public void ShowReklam()
     {
+        RewardContrroler.CanShowReward = false;
         YandexGame.RewVideoShow(0);
     }
 
     public void LooseButton()
     {
-        
+        RewardContrroler.CanShowReward = true;
         PlayerPrefs.SetInt("SaveMoney", PlayerUI.Money);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }

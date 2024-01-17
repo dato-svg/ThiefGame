@@ -17,7 +17,7 @@ namespace YG.Insides
 
         const string define_Localization = "YG_NEWTONSOFT_FOR_AUTOLOCALIZATION";
         const string define_Saves = "YG_NEWTONSOFT_FOR_SAVES";
-        const string define_TextMP = "YG_TEXT_MESH_PRO";
+        private const string define_TextMP = "YG_TEXT_MESH_PRO";
 
         private void OnEnable()
         {
