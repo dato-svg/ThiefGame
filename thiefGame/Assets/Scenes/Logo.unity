@@ -487,7 +487,7 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 2
   m_AspectRatio: 2
-  m_DataSource: 1
+  m_DataSource: 0
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
@@ -525,7 +525,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec6f8f67c6ea09f49a40bd86924a0858, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: http://localhost/Games/logo.mp4
 --- !u!114 &1180422522
 MonoBehaviour:
   m_ObjectHideFlags: 0

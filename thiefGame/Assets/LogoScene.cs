@@ -5,14 +5,14 @@ using UnityEngine.Video;
 
 public class LogoScene : MonoBehaviour
 {
-    private VideoPlayer player;
+    /*private VideoPlayer player;
     public string url;
 
     private void Awake()
     {
         player = GetComponent<VideoPlayer>();
         player.url = url;
-    }
+    }*/
 
     private void Start()
     {

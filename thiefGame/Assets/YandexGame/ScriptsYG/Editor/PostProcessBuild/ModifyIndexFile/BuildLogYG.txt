@@ -1,2 +1,2 @@
-Build path: C:/Users/PRO_TEAM_C#/Desktop/Ya.0.0.32
-Build number: 30
+Build path: C:/Users/PRO_TEAM_C#/Desktop/TestYandex0.0.2
+Build number: 32
