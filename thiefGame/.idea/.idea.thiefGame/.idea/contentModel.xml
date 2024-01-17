@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PRO_TEAM_C#\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PRO_TEAM_C#\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_thiefGame.1729806821.00" t="ExcludeRecursive" />
+    <e p="C:\Users\PRO_TEAM_C#\Desktop\Git-hub\VorGame\VorGame\thiefGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="2d characters family" t="Include">
+          <e p="Animation" t="Include" />
+          <e p="Scenes" t="Include" />
+          <e p="Sprites" t="Include" />
+        </e>
+        <e p="Animation" t="Include">
+          <e p="AnimationTakeMoney" t="Include" />
+        </e>
+        <e p="CrazyOptimizer" t="Include">
+          <e p="Editor" t="Include">
+            <e p="OptimizerUtils.cs" t="Include" />
+            <e p="OptimizerWindow.cs" t="Include" />
+            <e p="Resources" t="Include" />
+            <e p="TreeLib" t="Include">
+              <e p="TreeElement.cs" t="Include" />
+              <e p="TreeElementUtility.cs" t="Include" />
+              <e p="TreeExtensionMethods.cs" t="Include" />
+              <e p="TreeModel.cs" t="Include" />
+              <e p="TreeViewWithTreeModel.cs" t="Include" />
+            </e>
+            <e p="WindowComponents" t="Include">
+              <e p="About.cs" t="Include" />
+              <e p="AudioOptimizations" t="Include">
+                <e p="AudioOptimization.cs" t="Include" />
+                <e p="AudioTree.cs" t="Include" />
+                <e p="AudioTreeItem.cs" t="Include" />
+              </e>
+              <e p="BuildLogs" t="Include">
+                <e p="BuildLogs.cs" t="Include" />
+                <e p="BuildLogTree.cs" t="Include" />
+                <e p="BuildLogTreeItem.cs" t="Include" />
+              </e>
+              <e p="ExportOptimizations.cs" t="Include" />
+              <e p="ModelOptimizations" t="Include">
+                <e p="ModelOptimization.cs" t="Include" />
+                <e p="ModelTree.cs" t="Include" />
+                <e p="ModelTreeItem.cs" t="Include" />
+              </e>
+              <e p="TextureOptimizations" t="Include">
+                <e p="TextureOptimization.cs" t="Include" />
+                <e p="TextureTree.cs" t="Include" />
+                <e p="TextureTreeItem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="CrazySDK" t="Include">
+          <e p="CrazyAds" t="Include">
+            <e p="CrazyAdsDemo" t="Include">
+              <e p="DemoAssets" t="Include">
+                <e p="CrazyAdsDemoPlayer.cs" t="Include" />
+              </e>
+            </e>
+            <e p="CrazyBannersDemo" t="Include">
+              <e p="DemoAssets" t="Include">
+                <e p="CrazyBannerDemoController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Resources" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="CrazyAdPreview.cs" t="Include" />
+              <e p="CrazyAds.cs" t="Include" />
+              <e p="CrazyBanner.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="CrazyBannerEditor.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="CrazyEvents" t="Include">
+            <e p="CrazyEventsDemo" t="Include">
+              <e p="DemoAssets" t="Include">
+                <e p="ButtonActions.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CrazyEvents.cs" t="Include" />
+            </e>
+          </e>
+          <e p="CrazyUser" t="Include">
+            <e p="Demo" t="Include">
+              <e p="CrazyUserDemo.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CrazyUser.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="DemoAssets" t="Include">
+              <e p="DemoController.cs" t="Include" />
+            </e>
+            <e p="PlayerPrefsAPS" t="Include">
+              <e p="PlayerPrefsAPS.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include" />
+          <e p="Script" t="Include">
+            <e p="CrazyJsonHelper.cs" t="Include" />
+            <e p="CrazySDK.cs" t="Include" />
+            <e p="CrazySDKInit.cs" t="Include" />
+            <e p="CrazySettings.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="SiteLock" t="Include">
+            <e p="Encryption.cs" t="Include" />
+            <e p="SiteLock.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="Minecraft Rus NEW" t="Include">
+            <e p="COPYRIGHT.txt" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="Minecraft Rus NEW (1)" t="Include">
+            <e p="COPYRIGHT.txt" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="Minecraft Ten" t="Include">
+            <e p="COPYRIGHT.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Material" t="Include" />
+        <e p="NewScene.cs" t="Include" />
+        <e p="PhizicMaterial" t="Include" />
+        <e p="Plugins" t="Include" />
+        <e p="Prefabs" t="Include">
+          <e p="TakeThisHome" t="Include" />
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ButtonColor.cs" t="Include" />
+          <e p="ButtonRGBA.cs" t="Include" />
+          <e p="controlplay.cs" t="Include" />
+          <e p="DialogSystem.cs" t="Include" />
+          <e p="EnemyStart.cs" t="Include" />
+          <e p="ForAI.cs" t="Include" />
+          <e p="ForCar.cs" t="Include" />
+          <e p="ForStars.cs" t="Include" />
+          <e p="Interactable.cs" t="Include" />
+          <e p="LanguageController.cs" t="Include" />
+          <e p="LookCharacter.cs" t="Include" />
+          <e p="MoonController.cs" t="Include" />
+          <e p="NewScripts" t="Include">
+            <e p="ControllerSongButton.cs" t="Include" />
+            <e p="ControlOn.cs" t="Include" />
+            <e p="ManagerShop.cs" t="Include" />
+            <e p="NoGameOver.cs" t="Include" />
+            <e p="OnCrazySdkControl.cs" t="Include" />
+            <e p="OnWinPanel.cs" t="Include" />
+            <e p="SaveBuyCharacter2.cs" t="Include" />
+            <e p="SaveBuyCharacter3.cs" t="Include" />
+            <e p="SaveBuyCharacter4.cs" t="Include" />
+            <e p="SceneController.cs" t="Include" />
+            <e p="ShowMoney.cs" t="Include" />
+            <e p="Teacher" t="Include">
+              <e p="TeacherController.cs" t="Include" />
+              <e p="TeacherForCar.cs" t="Include" />
+            </e>
+          </e>
+          <e p="PlayerUI.cs" t="Include" />
+          <e p="SaveBuyCharacter.cs" t="Include" />
+          <e p="SDKCrazyGamesController.cs" t="Include" />
+          <e p="Thachable.cs" t="Include" />
+          <e p="TimerScripts.cs" t="Include" />
+        </e>
+        <e p="Sound" t="Include" />
+        <e p="Sprite" t="Include">
+          <e p="kenney_foliage-pack" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="PNG" t="Include">
+              <e p="Default size" t="Include">
+                <e p="Leaves" t="Include" />
+              </e>
+              <e p="Retina" t="Include">
+                <e p="Leaves" t="Include" />
+              </e>
+            </e>
+            <e p="Spritesheet" t="Include">
+              <e p="foliagePack_default.xml" t="Include" />
+              <e p="foliagePack_retina.xml" t="Include" />
+            </e>
+            <e p="Tilesheet" t="Include" />
+            <e p="Vector" t="Include" />
+          </e>
+          <e p="kenney_pixel-vehicle-pack" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="PNG" t="Include">
+              <e p="Cars" t="Include" />
+              <e p="Characters" t="Include" />
+              <e p="Props" t="Include" />
+            </e>
+            <e p="Spritesheet" t="Include">
+              <e p="spritesheet_cars.xml" t="Include" />
+              <e p="spritesheet_characters.xml" t="Include" />
+              <e p="spritesheet_complete.xml" t="Include" />
+              <e p="spritesheet_props.xml" t="Include" />
+            </e>
+          </e>
+          <e p="kenney_platformer-characters" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="PNG" t="Include">
+              <e p="Adventurer" t="Include">
+                <e p="Limbs" t="Include" />
+                <e p="Poses" t="Include" />
+              </e>
+              <e p="Female" t="Include">
+                <e p="Limbs" t="Include" />
+                <e p="Poses" t="Include" />
+              </e>
+              <e p="Player" t="Include">
+                <e p="Limbs" t="Include" />
+                <e p="Poses" t="Include" />
+              </e>
+              <e p="Soldier" t="Include">
+                <e p="Limbs" t="Include" />
+                <e p="Poses" t="Include" />
+              </e>
+              <e p="Zombie" t="Include">
+                <e p="Limbs" t="Include" />
+                <e p="Poses" t="Include" />
+              </e>
+            </e>
+            <e p="Vector" t="Include" />
+          </e>
+          <e p="kenney_toon-characters-1" t="Include">
+            <e p="Female adventurer" t="Include">
+              <e p="PNG" t="Include">
+                <e p="Parts" t="Include" />
+                <e p="Parts HD" t="Include" />
+                <e p="Poses" t="Include" />
+                <e p="Poses HD" t="Include" />
+              </e>
+              <e p="Tilesheet" t="Include">
+                <e p="character_femaleAdventurer_sheet.xml" t="Include" />
+                <e p="character_femaleAdventurer_sheetHD.xml" t="Include" />
+              </e>
+              <e p="Vector" t="Include" />
+            </e>
+            <e p="Female person" t="Include">
+              <e p="PNG" t="Include">
+                <e p="Parts" t="Include" />
+                <e p="Parts HD" t="Include" />
+                <e p="Poses" t="Include" />
+                <e p="Poses HD" t="Include" />
+              </e>
+              <e p="Tilesheet" t="Include">
+                <e p="character_femalePerson_sheet.xml" t="Include" />
+                <e p="character_femalePerson_sheetHD.xml" t="Include" />
+              </e>
+              <e p="Vector" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+            <e p="Male adventurer" t="Include">
+              <e p="PNG" t="Include">
+                <e p="Parts" t="Include" />
+                <e p="Parts HD" t="Include" />
+                <e p="Poses" t="Include" />
+                <e p="Poses HD" t="Include" />
+              </e>
+              <e p="Tilesheet" t="Include">
+                <e p="character_maleAdventurer_sheet.xml" t="Include" />
+                <e p="character_maleAdventurer_sheetHD.xml" t="Include" />
+              </e>
+              <e p="Vector" t="Include" />
+            </e>
+            <e p="Male person" t="Include">
+              <e p="PNG" t="Include">
+                <e p="Parts" t="Include" />
+                <e p="Parts HD" t="Include" />
+                <e p="Poses" t="Include" />
+                <e p="Poses HD" t="Include" />
+              </e>
+              <e p="Tilesheet" t="Include">
+                <e p="character_malePerson_sheet.xml" t="Include" />
+                <e p="character_malePerson_sheetHD.xml" t="Include" />
+              </e>
+              <e p="Vector" t="Include" />
+            </e>
+            <e p="Robot" t="Include">
+              <e p="PNG" t="Include">
+                <e p="Parts" t="Include" />
+                <e p="Parts HD" t="Include" />
+                <e p="Poses" t="Include" />
+                <e p="Poses HD" t="Include" />
+              </e>
+              <e p="Tilesheet" t="Include">
+                <e p="character_robot_sheet.xml" t="Include" />
+                <e p="character_robot_sheetHD.xml" t="Include" />
+              </e>
+              <e p="Vector" t="Include" />
+            </e>
+            <e p="Zombie" t="Include">
+              <e p="PNG" t="Include">
+                <e p="Parts" t="Include" />
+                <e p="Parts HD" t="Include" />
+                <e p="Poses" t="Include" />
+                <e p="Poses HD" t="Include" />
+              </e>
+              <e p="Tilesheet" t="Include">
+                <e p="character_zombie_sheet.xml" t="Include" />
+                <e p="character_zombie_sheetHD.xml" t="Include" />
+              </e>
+              <e p="Vector" t="Include" />
+            </e>
+          </e>
+          <e p="mp_house_interiors_tileset_pack_v1.0" t="Include">
+            <e p="mp_house_interiors_tileset_pack" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Tasty_Characters - Village Pack" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Prefabs" t="Include">
+              <e p="References" t="Include" />
+            </e>
+            <e p="Scenes" t="Include" />
+            <e p="Textures" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="TimeEditor" t="Include" />
+        <e p="WebGLTemplates" t="Include">
+          <e p="Crazy_2020" t="Include" />
+          <e p="Crazy_5_6+" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="thiefGame.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

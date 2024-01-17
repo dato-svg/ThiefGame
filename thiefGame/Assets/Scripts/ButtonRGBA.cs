@@ -47,10 +47,5 @@ public class ButtonRGBA : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
-    public void LooseButton()
-    {
-        
-        PlayerPrefs.SetInt("SaveMoney", PlayerUI.Money);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
+    
 }
