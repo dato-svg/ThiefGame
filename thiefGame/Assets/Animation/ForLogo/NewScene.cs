@@ -21,9 +21,7 @@ public class NewScene : MonoBehaviour
 
     private void Start()
     {
-        
-        StartCoroutine(WaitFrame());
-        
+        SceneManager.LoadScene(1);
     }
 
     private IEnumerator WaitFrame()
